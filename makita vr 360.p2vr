@@ -85,8 +85,9 @@
           <id>Point01</id>
           <title>$(ut)</title>
           <linktype>video</linktype>
-          <linksubtype>videoyoutube</linksubtype>
-          <url>Y8UadgVREEs</url>
+          <linksubtype>videourl</linksubtype>
+          <url>https://storage.googleapis.com/tour-vr-makita/multifulcional.mp4</url>
+          <safeurl>Y8UadgVREEs.</safeurl>
           <target>48.6/-51.4/100.0</target>
           <type>point</type>
           <distance>0</distance>
