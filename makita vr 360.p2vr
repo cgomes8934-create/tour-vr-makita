@@ -84,9 +84,9 @@
           <polygon/>
           <id>Point01</id>
           <title>$(ut)</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node2}</url>
+          <linktype>video</linktype>
+          <linksubtype>videoyoutube</linksubtype>
+          <url>Y8UadgVREEs</url>
           <target>48.6/-51.4/100.0</target>
           <type>point</type>
           <distance>0</distance>
@@ -395,7 +395,7 @@
           <filename>output/index.html</filename>
           <values>
             <value id="cachebust">true</value>
-            <value id="css"></value>
+            <value id="css"/>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
@@ -430,7 +430,7 @@
           <template>normal.ggt</template>
           <values>
             <value id="cachebust">true</value>
-            <value id="css"></value>
+            <value id="css"/>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
