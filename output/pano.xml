@@ -17,8 +17,8 @@
     <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
       <label width="180" height="20" enabled="1" bordercolor="0x000000" borderradius="1" wordwrap="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" borderalpha="1" border="1" backgroundcolor="0xffffff" background="1"/>
       <polystyle handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
-      <hotspot url="https://storage.googleapis.com/tour-vr-makita/multifulcional.mp4" target="48.6/-51.4/100.0" id="Point01" pan="-125.17" skinid="ht_video_url" tilt="-7.99" title="" description=""/>
       <hotspot url="{node3}" target="" id="Point02" pan="-97.7" skinid="ht_node" tilt="6.04" title="" description=""/>
+      <hotspot url="media/multifulcional.mp4" target="" id="Point01" pan="-128.05" skinid="ht_video_file" tilt="-5.79" title="" description=""/>
     </hotspots>
     <media/>
     <transition zoomafteroutfov="40" blendcolor="0x000000" enabled="1" zoomspeed="2" type="crossdissolve" blendtime="1" zoomfov="40" zoomafterinfov="140" delay="none" softedge="0" zoomin="0" zoomoutpause="1" zoomout="0"/>

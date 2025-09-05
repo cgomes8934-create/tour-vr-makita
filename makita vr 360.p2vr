@@ -71,34 +71,6 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-125.17</pan>
-            <tilt>-7.99</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>48.6</pan>
-            <tilt>-51.4</tilt>
-            <fov>100</fov>
-          </next>
-          <customprops/>
-          <polygon/>
-          <id>Point01</id>
-          <title>$(ut)</title>
-          <linktype>video</linktype>
-          <linksubtype>videourl</linksubtype>
-          <url>https://storage.googleapis.com/tour-vr-makita/multifulcional.mp4</url>
-          <safeurl>Y8UadgVREEs.</safeurl>
-          <target>48.6/-51.4/100.0</target>
-          <type>point</type>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
             <pan>-97.7</pan>
             <tilt>6.04</tilt>
             <fov>10</fov>
@@ -115,6 +87,32 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node3}</url>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-128.05</pan>
+            <tilt>-5.79</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point01</id>
+          <linktype>video</linktype>
+          <linksubtype>videofile</linksubtype>
+          <url>../multifulcional.mp4</url>
+          <safeurl>multifulcional.mp4</safeurl>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
